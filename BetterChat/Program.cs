@@ -5,6 +5,7 @@ namespace BetterChat
 {
     public class Program
     {
+        //uwu haha xD 
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
